@@ -44,7 +44,7 @@ func GetNumberPath(replaceStr map[string]string, cfg *ConfigStruct) string {
 	// 循环替换
 	for key, val := range replaceStr {
 		// 检查内容长度
-		if len(val) > 50 {
+		if len(val) > 200 {
 			val = "ManyMany..."
 		}
 		rule = strings.ReplaceAll(rule, key, val)

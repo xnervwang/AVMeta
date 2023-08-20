@@ -1,4 +1,4 @@
-module github.com/ylqjgm/AVMeta
+module github.com/xnervwang/AVMeta
 
 go 1.14
 

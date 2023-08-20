@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ylqjgm/AVMeta/pkg/scraper"
+	"github.com/xnervwang/AVMeta/pkg/scraper"
 )
 
 // Media Nfo信息结构，

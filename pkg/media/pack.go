@@ -3,15 +3,15 @@ package media
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/ylqjgm/AVMeta/pkg/logs"
+	"github.com/xnervwang/AVMeta/pkg/logs"
 	"os"
 	"path"
 	"regexp"
 	"strings"
 
-	"github.com/ylqjgm/AVMeta/pkg/util"
+	"github.com/xnervwang/AVMeta/pkg/util"
 
-	"github.com/ylqjgm/AVMeta/pkg/scraper"
+	"github.com/xnervwang/AVMeta/pkg/scraper"
 )
 
 // 刮削对象

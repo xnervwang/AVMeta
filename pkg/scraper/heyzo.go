@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ylqjgm/AVMeta/pkg/util"
+	"github.com/xnervwang/AVMeta/pkg/util"
 
 	"github.com/PuerkitoBio/goquery"
 )

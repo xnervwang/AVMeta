@@ -1,7 +1,7 @@
 package logs
 
 import (
-	"github.com/ylqjgm/AVMeta/pkg/util"
+	"github.com/xnervwang/AVMeta/pkg/util"
 	"os"
 	"time"
 )

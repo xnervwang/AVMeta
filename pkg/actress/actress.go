@@ -2,7 +2,7 @@ package actress
 
 import (
 	"fmt"
-	"github.com/ylqjgm/AVMeta/pkg/logs"
+	"github.com/xnervwang/AVMeta/pkg/logs"
 	"os"
 	"path"
 	"path/filepath"
@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ylqjgm/AVMeta/pkg/util"
+	"github.com/xnervwang/AVMeta/pkg/util"
 
 	"github.com/schollz/progressbar/v2"
 )

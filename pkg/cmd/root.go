@@ -1,12 +1,12 @@
 package cmd
 
 import (
-	"github.com/ylqjgm/AVMeta/pkg/logs"
+	"github.com/xnervwang/AVMeta/pkg/logs"
 	"path"
 
-	"github.com/ylqjgm/AVMeta/pkg/media"
+	"github.com/xnervwang/AVMeta/pkg/media"
 
-	"github.com/ylqjgm/AVMeta/pkg/util"
+	"github.com/xnervwang/AVMeta/pkg/util"
 
 	"github.com/spf13/cobra"
 )

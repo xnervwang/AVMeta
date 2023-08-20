@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ylqjgm/AVMeta/pkg/cmd"
+	"github.com/xnervwang/AVMeta/pkg/cmd"
 )
 
 var (

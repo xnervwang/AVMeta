@@ -1,10 +1,10 @@
 package cmd
 
 import (
-	"github.com/ylqjgm/AVMeta/pkg/logs"
+	"github.com/xnervwang/AVMeta/pkg/logs"
 	"strings"
 
-	"github.com/ylqjgm/AVMeta/pkg/actress"
+	"github.com/xnervwang/AVMeta/pkg/actress"
 
 	"github.com/spf13/cobra"
 )
